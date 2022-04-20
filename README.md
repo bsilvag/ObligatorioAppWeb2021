@@ -6,7 +6,7 @@ Las funcionalidades del sistema son el ABM de Periodistas, el ABM de Secciones, 
 
 Para mayor entendimiento del proyecto, en la carpeta Diagramas se encuentran los diagramas del DER, el diagrama de capas y el modelo conceptual. En la carpeta de Base de datos se encuentra el script para crear la base de datos en SQL Server con los SP necesarios para que el sistema funcione.
 
-Este proyecto fue elaborado en el marco del proyecto final de primer año de la carrera de Analista de Sistemas de BIOS, en el se fusionan todos los conceptos aprendidos a lo largo del año.
+Este proyecto fue elaborado en el marco de la prueba final de primer año de la carrera de Analista de Sistemas de BIOS, en el se fusionan parte de los conceptos aprendidos a lo largo del año.
 
 
 
