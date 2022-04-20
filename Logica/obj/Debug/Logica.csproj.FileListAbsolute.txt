@@ -1,0 +1,55 @@
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\obj\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Logica\obj\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\Logica.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\Logica.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\obj\Debug\Logica.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Logica\obj\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\obj\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Logica\obj\Debug\Logica.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\Logica.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\Logica.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\obj\Debug\Logica.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Logica\obj\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\Logica.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\obj\Debug\Logica.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Logica\obj\Debug\Logica.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\Logica.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\Logica.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\obj\Debug\Logica.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Logica\obj\Debug\Logica.pdb

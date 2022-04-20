@@ -1,0 +1,49 @@
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\solucion 3\Solucion2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion3\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\solucion4\Solucion3\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Eduardo\Downloads\BIOS\Aplicaciones Web en C#\Obligatorio\Solucion4\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Acer\Downloads\Nueva carpeta\Solucion4\Persistencia\obj\Debug\Persistencia.pdb
